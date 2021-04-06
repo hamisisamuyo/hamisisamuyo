@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hamisisamuyo
+- 👋 Hi, I’m @Hamis Isamuyo
 - 👀 I’m interested in Website developments, Application developments and Software development.
 - 🌱 I’m currently learning Phython 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Phython projects and website designing.
 - 📫 How to reach me please contact me via this email: hisamuyo@gmail.com 
 
 <!---
